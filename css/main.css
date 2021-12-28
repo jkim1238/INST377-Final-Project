@@ -1,0 +1,49 @@
+#home-header {
+    background-color: #2941AB;
+    color: #1ED760;
+    padding-top: 25px;
+    padding-left: 10px;
+    padding-bottom: 25px;
+    margin-top: 50px
+}
+
+#songs-header {
+    background-color: #F46EBE;
+    color: #202F72;
+    padding-top: 25px;
+    padding-left: 10px;
+    padding-bottom: 25px;
+    margin-top: 50px
+}
+
+#moods-header {
+    background-color: #96F0B6;
+    color: #202F72;
+    padding-top: 25px;
+    padding-left: 10px;
+    padding-bottom: 25px;
+    margin-top: 50px
+}
+
+#artists-header {
+    background-color: #8467A9;
+    color: white;
+    padding-top: 25px;
+    padding-left: 10px;
+    padding-bottom: 25px;
+    margin-top: 50px
+}
+
+#genres-header {
+    background-color: #7BB2D3;
+    color: white;
+    padding-top: 25px;
+    padding-left: 10px;
+    padding-bottom: 25px;
+    margin-top: 50px
+}
+
+.home-btn {
+    background-color: #2941AB;
+    color: #1ED760;
+}
